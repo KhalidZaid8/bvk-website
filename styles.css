@@ -154,6 +154,7 @@ h1 span { color: transparent; -webkit-text-stroke: 1px rgba(255,255,255,.58); }
 .footer-top a:hover { color: #fff; }
 .footer-bottom { border-top: 1px solid rgba(255,255,255,.12); padding-top: 24px; display: grid; grid-template-columns: 1fr auto auto; gap: 30px; color: #7f95a5; font-size: .68rem; }
 .footer-bottom a { color: inherit; }
+.concept-note { grid-column: 1 / -1; color: #607b8f; font-size: .64rem; letter-spacing: .02em; }
 .mobile-call { display: none; }
 
 .reveal { opacity: 0; transform: translateY(24px); transition: opacity .7s ease, transform .7s ease; }
